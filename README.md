@@ -22,7 +22,41 @@
 </div>
 
 <details>
-<summary>About me</summary>
+<summary>About me
+	# 👋 Hey there, I'm John Doe! 🧑‍💻
+
+I'm a **Full-Stack Developer** who loves turning coffee into code ☕➡️💻. When I'm not building websites or APIs, you can find me on a cycling trail, cooking up a new recipe, or diving into a new game. 🎮
+
+## 🌍 A Little About Me:
+- **Location:** San Francisco, CA – where tech meets the ocean 🌊
+- **Hobbies:**  
+  - 🚴‍♂️ Cycling (I’m always looking for the next adventure)  
+  - 🍳 Cooking (Ask me for my secret pancake recipe!)  
+  - 🎮 Gaming (Currently addicted to [Game XYZ])  
+  - 📚 Reading (Lately, I've been into sci-fi and coding books)
+
+- **Currently Learning:** Kubernetes & Cloud DevOps (because the cloud is calling 🌥️)  
+- **Fun Fact:** I’m a self-taught developer who once built a game in my basement while munching on pizza. 🍕
+
+## 🛠️ What I Love to Code With:
+- **Languages:** JavaScript, TypeScript, Python  
+- **Frameworks & Tools:** React, Node.js, Express, Docker, AWS
+
+## 🚀 Currently Working On:
+- **Portfolio Website** – A full-stack app to showcase my projects and journey.
+- **Machine Learning Blog** – Teaching the basics of ML through fun examples!
+
+## 📬 Let’s Get in Touch:
+- **Email:** [john.doe@example.com](mailto:john.doe@example.com)  
+- **LinkedIn:** [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)  
+- **Twitter:** [@johnDoe_dev](https://twitter.com/johndoe_dev)
+
+---
+
+### 🌟 My GitHub Stats:
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=radical)
+
+</summary>
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
