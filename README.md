@@ -137,7 +137,6 @@
 </div>
 </details>
 
--->
 
 <details>
   <summary>GitHub Stats</summary>
@@ -146,6 +145,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
   </p>
 </details>
+-->
 
 <details>
   <summary>Open Source Contributions</summary>
