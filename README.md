@@ -34,7 +34,7 @@
 
 </details>
 
-<details>
+<!-- <details>
 <summary>once i worked on it 😂</summary>
 <div>
   <p style="display: inline-block;" align="center">
@@ -136,6 +136,8 @@
   </p>
 </div>
 </details>
+
+-->
 
 <details>
   <summary>GitHub Stats</summary>
